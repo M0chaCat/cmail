@@ -49,5 +49,5 @@ Cmail supports multi-server communication through:
 ```
 user!server1.org ➔ websocket ➔ server2.org ➔ recipient!server2.org
 ```
-
+# 
 Legal Disclaimer: Any resemblance to actual cat conspiracies is purely coincidental. meow :3
