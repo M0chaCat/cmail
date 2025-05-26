@@ -1,33 +1,26 @@
-#  Cmail - Feline Communication Protocol
+# Cmail 
 
-**Email reimagined for cats** - Secure, real-time messaging system designed for cat-like communications and... other _curious_ activities.
+**Email reimagined for cats** - Secure, real-time messaging system designed for cat-like communications.
 <!-- system diagram later? -->
 
-## Features
-### Core Capabilities
-- **Real-time messaging** via WebSocket (port 
-3292)
-- **Feline-friendly address system** 
-(`username!domain.org`)
-- **Secure authentication** with password 
-protection
-- **Message tracking** with reply/forward 
-threading
+## Features
+### Core Capabilities
+- **Real-time messaging** via WebSocket
+- **Feline-friendly address system** (`username!domain.org`)
+- **Secure authentication** with password protection
+- **Message tracking** with reply/forward threading
 
-## Quick Start 
+## Quick Start 
 ```bash
 # Clone repository
-git clone https://github.com/yourrepo/cmail.git
+git clone https://github.com/MochaCat/cmail.git
 cd cmail
 
 # Install dependencies
 npm install
 
-# Start server (default port 3292)
+# Start server 
 node server.js
-
-# Access client at http://localhost:8000/
-client/
 ```
 ## Configuration 
 ### Server Settings (cmails.json)
@@ -36,6 +29,7 @@ client/
   "user!domain.org": {
     "password": "securePassword",
     "displayName": "Fluffy Mittens",
+    "createdAt": "2025-05-19T17:00:00Z"
   }
 }
 ```
@@ -43,7 +37,7 @@ client/
 ```
 📁 data/
   ├── 📁 username/      # User messages
-  └── 📁 _deleted/            # Soft-deleted messages
+  └── 📁 _deleted/      # Soft-deleted messages (if enabled)
 ```
 
 ## Federation Support 
@@ -55,8 +49,5 @@ Cmail supports multi-server communication through:
 ```
 user!server1.org ➔ websocket ➔ server2.org ➔ recipient!server2.org
 ```
-## Contribution Guidelines 
-1. All pull requests must pass the paw-approval process
-2. Catnip-induced coding sessions encouraged
-3. Strict no-dogs-allowed policy
-Legal Disclaimer Any resemblance to actual cat conspiracies is purely coincidental. meow :3
+
+Legal Disclaimer: Any resemblance to actual cat conspiracies is purely coincidental. meow :3
