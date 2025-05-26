@@ -1,0 +1,17 @@
+{
+  "from": "jane!dev!localhost",
+  "to": "steve!dev!localhost",
+  "subject": "Re: Re: Re: hey uh hr wants to c u",
+  "type": "message",
+  "uuid": "7090e727-860f-4ed9-a216-b4bb8963fa74",
+  "replytouuid": "3b9b6a99-7f03-4a98-a984-b30c25a5d71c",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T20:49:13.402Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "SHIT"
+  }
+}

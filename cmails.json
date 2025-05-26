@@ -1,0 +1,12 @@
+{
+    "jane!dev!localhost": {
+      "password": "1234",
+      "displayName": "Jane Doe",
+      "createdAt": "2025-05-19T17:00:00Z"
+    },
+    "steve!dev!localhost": {
+      "password": "1234",
+      "displayName": "Steve Doe",
+      "createdAt": "2025-05-19T17:00:00Z"
+    }
+}

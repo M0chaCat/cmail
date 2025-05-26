@@ -1,0 +1,17 @@
+{
+  "from": "steve!dev!localhost",
+  "to": "jane!dev!localhost",
+  "subject": "Fwd: \"Penis is wrong. Penis is gay. PENIS PENUS MEAN FACE !!!!!!!!\"",
+  "type": "message",
+  "uuid": "3519bf5a-78ab-4b9c-9ee2-8c682bce7ca6",
+  "replytouuid": "",
+  "forwardeduuid": "3854782e-0a56-4c7b-8e42-dad7c972f0e6",
+  "headers": {
+    "timestamp": "2025-05-20T22:11:01.326Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "---------- Forwarded message ----------\nFrom: steve!dev!localhost\nDate: 5/20/2025, 6:03:50 PM\nSubject: \"Penis is wrong. Penis is gay. PENIS PENUS MEAN FACE !!!!!!!!\"\n\n\"Penis is wrong. Penis is gay. PENIS PENUS MEAN FACE !!!!!!!!\""
+  }
+}

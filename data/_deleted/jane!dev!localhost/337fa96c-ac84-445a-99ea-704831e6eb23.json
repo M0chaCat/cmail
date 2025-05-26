@@ -1,0 +1,17 @@
+{
+  "from": "jane!dev!localhost",
+  "to": "steve!dev!localhost",
+  "subject": "Re: hey uh hr wants to c u",
+  "type": "message",
+  "uuid": "337fa96c-ac84-445a-99ea-704831e6eb23",
+  "replytouuid": "6216318c-0f44-4402-9035-c0d299521959",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T20:48:55.316Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "uhoh, is it cuz i sucked you off,,,"
+  }
+}

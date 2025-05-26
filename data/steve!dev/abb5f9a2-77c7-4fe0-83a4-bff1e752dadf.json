@@ -1,0 +1,17 @@
+{
+  "from": "steve!dev!localhost",
+  "to": "jane!dev!localhost",
+  "subject": "Re: Re: meow",
+  "type": "message",
+  "uuid": "abb5f9a2-77c7-4fe0-83a4-bff1e752dadf",
+  "replytouuid": "470d20e6-17a6-4bbe-8f58-890e573f770a",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T21:13:32.355Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "GAY FURRY PORN"
+  }
+}

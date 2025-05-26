@@ -1,0 +1,17 @@
+{
+  "from": "jane!dev!localhost",
+  "to": "steve!dev!localhost",
+  "subject": "meow",
+  "type": "message",
+  "uuid": "0a5af99c-84cd-4133-918c-f267547b2603",
+  "replytouuid": "",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-26T17:25:45.293Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "nya~ FURY PORN"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "from": "steve!dev!localhost",
+  "to": "jane!dev!localhost",
+  "subject": "hey uh hr wants to c u",
+  "type": "message",
+  "uuid": "6216318c-0f44-4402-9035-c0d299521959",
+  "replytouuid": "",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T20:48:42.134Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "yea"
+  }
+}

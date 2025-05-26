@@ -1,0 +1,17 @@
+{
+  "from": "steve!dev!localhost",
+  "to": "jane!dev!localhost",
+  "subject": "Re: Re: Re: Re: meow",
+  "type": "message",
+  "uuid": "f2e44b4c-aafa-4047-800b-ab3c02608462",
+  "replytouuid": "89df8be4-675b-45e1-a06b-b92a45e77d86",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T21:51:25.990Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "arbv"
+  }
+}

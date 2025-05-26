@@ -1,0 +1,17 @@
+{
+  "from": "jane!dev!localhost",
+  "to": "steve!dev!localhost",
+  "subject": "Re: meow",
+  "type": "message",
+  "uuid": "470d20e6-17a6-4bbe-8f58-890e573f770a",
+  "replytouuid": "3bef413d-a55e-49e0-a677-c3593b1cb61f",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T21:13:16.262Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "GAY PORN"
+  }
+}

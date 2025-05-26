@@ -1,0 +1,17 @@
+{
+  "from": "steve!dev!localhost",
+  "to": "jane!dev!localhost",
+  "subject": "DIE GAY BOY",
+  "type": "message",
+  "uuid": "a9e6a023-8c48-4bc5-9426-545ebb9f38a3",
+  "replytouuid": "",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T22:01:30.250Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "bs"
+  }
+}

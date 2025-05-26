@@ -1,0 +1,17 @@
+{
+  "from": "steve!dev!localhost",
+  "to": "jane!dev!localhost",
+  "subject": "rrsknrk",
+  "type": "message",
+  "uuid": "34ac7ef7-6bfb-4b96-90a4-d418c5c212cb",
+  "replytouuid": "",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T21:50:41.623Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "knrsb"
+  }
+}

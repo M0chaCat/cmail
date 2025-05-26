@@ -1,0 +1,17 @@
+{
+  "from": "steve!dev!localhost",
+  "to": "jane!dev!localhost",
+  "subject": "Re: Re: Re: Re: meow",
+  "type": "message",
+  "uuid": "35d80beb-ef58-48bf-8fb2-36888203e173",
+  "replytouuid": "89df8be4-675b-45e1-a06b-b92a45e77d86",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-20T21:59:00.534Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "GAYNESS"
+  }
+}

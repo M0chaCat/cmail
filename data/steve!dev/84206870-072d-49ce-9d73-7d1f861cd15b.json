@@ -1,0 +1,17 @@
+{
+  "from": "jane!dev!localhost",
+  "to": "steve!dev!localhost",
+  "subject": "penis is black and brown brown green brown brown orange brown brown green brown brown orange green brown brown green brown orange green brown brown orange green green",
+  "type": "message",
+  "uuid": "84206870-072d-49ce-9d73-7d1f861cd15b",
+  "replytouuid": "",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-26T17:24:30.394Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "penis is black and brown brown green brown brown orange brown brown green brown brown orange green brown brown green brown orange green brown brown orange green green"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "from": "jane!dev!localhost",
+  "to": "steve!dev!localhost",
+  "subject": "Re: peepeepoopoo",
+  "type": "message",
+  "uuid": "6caa234e-6871-4059-9f91-d738ad85b1c5",
+  "replytouuid": "16e9446b-f6b4-4b71-9aca-4a23ee0b93e2",
+  "forwardeduuid": "",
+  "headers": {
+    "timestamp": "2025-05-22T14:22:43.033Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "n- NO!"
+  }
+}

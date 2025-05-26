@@ -1,0 +1,17 @@
+{
+  "from": "jane!dev!localhost",
+  "to": "steve!dev!localhost",
+  "subject": "Fwd: meow",
+  "type": "message",
+  "uuid": "70735ae1-123e-4e62-b83b-ef4d4c6627f0",
+  "replytouuid": "",
+  "forwardeduuid": "0a5af99c-84cd-4133-918c-f267547b2603",
+  "headers": {
+    "timestamp": "2025-05-26T17:30:21.510Z",
+    "priority": "normal"
+  },
+  "body": {
+    "contentType": "text/plain",
+    "content": "---------- Forwarded message ----------\nFrom: jane!dev!localhost\nDate: 5/26/2025, 1:25:45 PM\nSubject: meow\n\nnya~ FURY PORN"
+  }
+}
