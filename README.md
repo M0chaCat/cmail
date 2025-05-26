@@ -1,4 +1,3 @@
-```
 #  Cmail - Feline Communication Protocol
 
 **Email reimagined for cats** - Secure, real-time messaging system designed for cat-like communications and... other _curious_ activities.
